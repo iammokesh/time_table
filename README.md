@@ -112,7 +112,10 @@ Execute the program using runserver command.
 <td align="corner">19EN301</td>
 <td> COMMUNICATIVE ENGLISH (ENG))</td>
 </tr>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3d2ae83b409b79e5c4c93ebfba191aaacc6d6709
 
 </table>
 </body>
@@ -125,6 +128,10 @@ Execute the program using runserver command.
 
 
 # OUTPUT
+<<<<<<< HEAD
 ![alt text](<Screenshot (8).png>)
+=======
+C:\Users\HP\time_table\Screenshot (8).png
+>>>>>>> 3d2ae83b409b79e5c4c93ebfba191aaacc6d6709
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
